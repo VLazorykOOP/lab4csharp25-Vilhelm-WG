@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4491a8df-db33-4805-bfbd-b89f2fb57b70" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/Lab_4.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/Lab_4.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/bin/Debug/net10.0/ConsoleApp2" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/bin/Debug/net10.0/ConsoleApp2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/bin/Debug/net10.0/ConsoleApp2.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/bin/Debug/net10.0/ConsoleApp2.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/bin/Debug/net10.0/ConsoleApp2.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/bin/Debug/net10.0/ConsoleApp2.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/bin/Debug/net10.0/Lab_2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/bin/Debug/net10.0/Lab_2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/bin/Debug/net10.0/Lab_2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/bin/Debug/net10.0/Lab_2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/ConsoleApp2.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/ConsoleApp2.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/ConsoleApp2.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/ConsoleApp2.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/ConsoleApp2.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/ConsoleApp2.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/ConsoleApp2.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/ConsoleApp2.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/ConsoleApp2.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/ConsoleApp2.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/ConsoleApp2.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/ConsoleApp2.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/ConsoleApp2.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/ConsoleApp2.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/ConsoleApp2.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/ConsoleApp2.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/ConsoleApp2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/ConsoleApp2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/ConsoleApp2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/ConsoleApp2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/ConsoleApp2.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/ConsoleApp2.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/ConsoleApp2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/ConsoleApp2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/ConsoleApp2.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/ConsoleApp2.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/Lab_2.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/Lab_2.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/Lab_2.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/Lab_2.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/Lab_2.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/Lab_2.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/Lab_2.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/Lab_2.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/Lab_2.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/Lab_2.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/apphost" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/apphost" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/ref/ConsoleApp2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/ref/ConsoleApp2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Debug/net10.0/refint/ConsoleApp2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Debug/net10.0/refint/ConsoleApp2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Lab_2.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Lab_2.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Lab_2.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Lab_2.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/Lab_2.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/Lab_2.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Lab_2/task_1/Rectangle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Lab_4/task_1/Rectangle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4.sln" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="1" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Vilhelm-WG&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:VLazorykOOP/lab4csharp25-Vilhelm-WG.git&quot;,
+    &quot;accountId&quot;: &quot;669e615d-dfdf-445c-ba0d-54dd6d86cfe4&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3BIfCMBnG9McHKSAWiidC7vg2WS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4491a8df-db33-4805-bfbd-b89f2fb57b70" name="Changes" comment="" />
+      <created>1774181376974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774181376974</updated>
+      <workItem from="1774181379176" duration="43000" />
+      <workItem from="1774181436003" duration="853000" />
+    </task>
+    <task id="LOCAL-00001" summary="work commit">
+      <option name="closed" value="true" />
+      <created>1774181894701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774181894701</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="work commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="work commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
